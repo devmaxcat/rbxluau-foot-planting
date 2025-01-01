@@ -1,12 +1,9 @@
-![image|690x233, 100%](upload://wiZbewnd9JTLrOVJCTF3Q2nCnsZ.jpeg)
-
-Quick Update!
-
-I've decided to put this project on github to allow others to help out, I personally don't have that much time to put into a project and so if you want to contribute, feel free! Open an issue and then optionally submit a pull request.
+![image|690x233, 100%](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/5X/e/2/6/b/e26b03288d4a35e86e8003de6cc0b1e2b5a158e1_2_690x233.jpeg)
 
 -----------
 # Summary
 Hello, fellow developers! I created an extremely simple and easy-to-use module that integrates with any R15 game to make your character feel more realistic.
+Also a quick update! I've decided to put this project on github to allow others to help out, I personally don't have that much time to put into a project and so if you want to contribute, feel free! Open an issue and then optionally submit a pull request. I'll work with the community to maintain this project.
 
 ## What's foot-planting? 
 Foot-Planting is the process of aligning a character's legs to match the surface they're standing on, making the character feel more realistically integrated into their environment. I wanted to make a module that would achieve this efficiently and be easy to drag-and-drop into any project.
@@ -21,11 +18,15 @@ Foot-Planting is the process of aligning a character's legs to match the surface
 ## How to use
 Simply put the module into StarterPlayerScripts.
 
+## Contributing
+If you have a bug or feature request please submit an issue. If you'd like to suggest the changes, then submit a pull request.
+
 #### Known Issues
 * The rays intersect parts which the player can't collide with (this is an easy fix I just haven't gotten to doing it yet)
 * The target points don't consider the upper leg position/rotation and cause the feet to drift together
 * Exaggerated animation packs often completely destroy the IK, again because I don't take into account the animation's influence on the feet position.
 * Replication!
+
 
 ---
 
