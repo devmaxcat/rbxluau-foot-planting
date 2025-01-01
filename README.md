@@ -1,5 +1,9 @@
 ![image|690x233, 100%](upload://wiZbewnd9JTLrOVJCTF3Q2nCnsZ.jpeg)
 
+Quick Update!
+
+I've decided to put this project on github to allow others to help out, I personally don't have that much time to put into a project and so if you want to contribute, feel free! Open an issue and then optionally submit a pull request.
+
 -----------
 # Summary
 Hello, fellow developers! I created an extremely simple and easy-to-use module that integrates with any R15 game to make your character feel more realistic.
@@ -9,35 +13,13 @@ Foot-Planting is the process of aligning a character's legs to match the surface
 
 ## Examples
 
-![image|297x358](upload://aJ2jueYutpilOMPrE4uv7Ghor6u.jpeg)
-![image|302x320](upload://1NR0qBA9aIAkFt5B2ANNNWgCq4I.jpeg)
-![image|265x379](upload://k0IaD4fiVo98YNtaHSxIOOUezYF.png)
-![6293e29a5f22b12e916b7fbbd01c01d7-ezgif.com-video-to-gif-converter|462x418, 50%](upload://eBUxxY3LUF3dyWukv9PCjToRuIQ.gif)
+![image|297x358](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/4/b/2/d/4b2d0afd8aedba598bfd52c9d808999d88995a4e.jpeg)
+![image|302x320](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/0/c/a/4/0ca4e416ad19bb2b9946246e1bcd2f6ea847a6dc.jpeg)
+![image|265x379](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/8/c/4/0/8c4018a41aee879efa38f2ef4f85dc406fc0428d.png)
+![6293e29a5f22b12e916b7fbbd01c01d7-ezgif.com-video-to-gif-converter|462x418, 50%](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/6/6/6/7/66678aeb40000c330f22a4d00333edb16d34f00c.gif)
 
 ## How to use
 Simply put the module into StarterPlayerScripts.
-
-
-[Module (Toolbox)](https://create.roblox.com/marketplace/asset/15932581915)
-or
-[V1_Test.rbxl|attachment](upload://yBqVMe9lDubNhXlgkV29T0gdeDG.rbxl) (63.5 KB)
-
-## Usage Rights
-* If using the system in your game, I would appreciate credit, but ultimately it is not required.
-* Please do not claim use directly as your own.
-* Feel free to edit however you'd like to adjust to your own needs.
-* Please do not redistribute edited versions without credit or claim system as your own.
-
-### Feedback
-I always look for feedback. I'm sure this system isn't perfect,  if anyone has any suggestions, edits, or feature requests, I'm listening. 
-
-I can't test everything by myself, unfortunately.
-
-
-
-
-Version History
-``1.0.0`` - 1/9/2024 - Uploaded, Let me know of any issues you encounter.
 
 #### Known Issues
 * The rays intersect parts which the player can't collide with (this is an easy fix I just haven't gotten to doing it yet)
